@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <h1>Gerador de Codigo QR</h1>
-      <p>Digite uma algo para gerar seu Código QR</p>
+      <p>Digite algo para gerar seu Código QR</p>
       <Input></Input>
     </div>
   );
