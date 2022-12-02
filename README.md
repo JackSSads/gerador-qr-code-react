@@ -1,6 +1,6 @@
 ## App Gerador de QR Code
 
-Transforme qualquer texo ou link em um Código QR
+Transforme qualquer texto ou link em um Código QR
 
 ##
 
